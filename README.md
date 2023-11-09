@@ -7,6 +7,6 @@ This repository focuses on processing and analyzing pedestrian trajectory data e
 [ETH/UCY Dataset Source](https://github.com/crowdbotp/OpenTraj)
 
 ## Objectives
-1. **Trajectory Prediction using LSTM**: Train a LSTM (Long Short-Term Memory) model to accurately forecast pedestrian trajectories based on the given dataset.
-2. **Trajectory Prediction using Encoder Decoder LSTM**: Train an Encoder-Decoder LSTM model to accurately forecast pedestrian trajectories based on the given dataset.
+1. **Trajectory Prediction using LSTM**: Train a LSTM (Long Short-Term Memory) model to forecast pedestrian trajectories based on the given dataset.
+2. **Trajectory Prediction using Encoder Decoder LSTM**: Train an Encoder-Decoder LSTM model to forecast pedestrian trajectories based on the given dataset.
 3. **Trajectory Generation using VAE**: Utilize a Variational Autoencoder (VAE) to generate new pedestrian trajectories.

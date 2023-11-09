@@ -1,5 +1,5 @@
 # Pedestrian-Trajectory-Prediction-LSTM
-Human Trajectory Prediction in Crowded Spaces using LSTM
+Human Trajectory Prediction in Crowded Spaces using Encoder-Decoder LSTM model
 
 ## Overview
 This repository focuses on processing and analyzing pedestrian trajectory data extracted from the well-known ETH/UCY dataset. The specific scene in the spotlight is the 'Zara' scene. Pedestrian trajectories in this dataset consist of 2D coordinates, extracted from videos recorded using overhead fixed cameras.
